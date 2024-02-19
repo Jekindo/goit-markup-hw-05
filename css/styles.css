@@ -721,9 +721,9 @@ ul {
 }
 
 .privacy-label {
-  display: flex;
+  /* display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 8px; */
 
   font-size: 12px;
   line-height: 1.17;
@@ -733,7 +733,7 @@ ul {
 }
 
 .modal-form .checkbox-icon {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
 
